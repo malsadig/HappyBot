@@ -1,0 +1,1 @@
+cd C:\Users\Mossab\Documents\Programming\Projects\IRC Bot\CompileIRC\ && javac someClass.java && jar cvfm someClass.jar manifest.mf *.class && java -jar someClass.jar
